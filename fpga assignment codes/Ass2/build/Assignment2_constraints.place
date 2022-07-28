@@ -1,0 +1,5 @@
+$iopadmap$Assignment2.V  12   3  0  # set_io V	3
+A       3  30  0  # set_io A	18
+B       2  31  0  # set_io B	21
+C       4  32  0  # set_io C	23
+D       8  32  0  # set_io D	26
